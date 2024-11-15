@@ -59,9 +59,11 @@ Ensure you have the required libraries installed. Refer to the `requirements.txt
    cd dogs-vs-cats
 2.Set up the Kaggle API key: Place your kaggle.json file in the ~/.kaggle/ directory.
 
-3.Download the dataset:kaggle datasets download -d salader/dogs-vs-cats
+3.Download the dataset:
+              kaggle datasets download -d salader/dogs-vs-cats
 
-4.Extract the dataset:unzip dogs-vs-cats.zip
+4.Extract the dataset:
+              unzip dogs-vs-cats.zip
 
 5.Run the script: Execute the Python script to train the model and test predictions.
 
