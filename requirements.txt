@@ -1,0 +1,12 @@
+
+---
+
+### `requirements.txt` File
+
+```plaintext
+tensorflow==2.12.0
+keras==2.12.0
+numpy==1.24.0
+matplotlib==3.8.0
+opencv-python==4.8.0
+kaggle==1.5.13
